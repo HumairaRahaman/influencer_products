@@ -193,10 +193,8 @@ ul li a {
   font-weight: 500;
   color: var(--pink);
   text-align: right;
+  margin-right: 120px;
   display: inherit;
-  position: absolute;
-  right: 192px;
-  bottom: -1650px;
 }
 .link-see span i {
   animation: floating 2s linear infinite;
@@ -237,6 +235,7 @@ ul li a {
 
 .contact .row .image {
   width: 40%;
+  margin-bottom: 180px;
 }
 .contact .border-img {
   border: 0px solid #3333339e;
