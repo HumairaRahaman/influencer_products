@@ -321,7 +321,7 @@ footer {
   .contact .row .image img {
     width: 50%;
 
-    bottom: 100px;
+    bottom: 60px;
   }
 }
 @media (max-width: 1279px) {
