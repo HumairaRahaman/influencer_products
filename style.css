@@ -310,20 +310,7 @@ footer {
 }
 
 /* responsive */
-@media (max-width: 2069px) {
-  .container {
-    max-width: 1500px;
-  }
-  .collection .link-see {
-    right: 380px;
-    bottom: -1590px;
-  }
-  .contact .row .image img {
-    width: 50%;
 
-    bottom: 60px;
-  }
-}
 @media (max-width: 1279px) {
   .container {
     max-width: 1200px;
