@@ -242,7 +242,7 @@ ul li a {
   bottom: -2290px;
 }
 .contact .border-img {
-  border: 4px solid #3333339e;
+  border: 0px solid #3333339e;
   padding: 0px;
   border-radius: 50%; /* position: absolute; */
 }
