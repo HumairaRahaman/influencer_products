@@ -236,9 +236,7 @@ ul li a {
 
 .contact .row .image {
   width: 40%;
-  position: absolute;
-  right: 15px;
-  bottom: -2290px;
+margin-bottom: 180px;
 }
 .contact .border-img {
   border: 0px solid #3333339e;
