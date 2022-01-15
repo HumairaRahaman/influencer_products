@@ -195,7 +195,6 @@ ul li a {
   text-align: right;
   margin-right: 120px;
   display: inherit;
- 
 }
 .link-see span i {
   animation: floating 2s linear infinite;
@@ -236,7 +235,7 @@ ul li a {
 
 .contact .row .image {
   width: 40%;
-margin-bottom: 180px;
+  margin-bottom: 180px;
 }
 .contact .border-img {
   border: 0px solid #3333339e;
@@ -246,7 +245,6 @@ margin-bottom: 180px;
 
 .contact .row .image img {
   width: 70%;
-
 }
 
 .contact .row form .box {
