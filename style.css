@@ -319,9 +319,9 @@ footer {
     bottom: -1365px;
   }
   .contact .row .image img {
-    width: 60%;
+    width: 50%;
 
-    bottom: 280px;
+    bottom: 100px;
   }
 }
 @media (max-width: 1279px) {
